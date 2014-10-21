@@ -1,0 +1,7 @@
+$ pwd --print working directory
+
+$ touch honey-im-home.txt --create file
+
+$ chmod 755 todo.sh -- change permissions on files
+
+$ ./todo.sh -- run 
