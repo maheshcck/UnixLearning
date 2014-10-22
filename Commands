@@ -2,6 +2,10 @@ $ pwd --print working directory
 
 $ touch honey-im-home.txt --create file
 
-$ chmod 755 todo.sh -- change permissions on files
-
+$ chmod 755 todo.sh -- change permissions on files , 777
+ 
 $ ./todo.sh -- run 
+
+$ ls| grep exe  -- pipe 
+
+$ fork 
